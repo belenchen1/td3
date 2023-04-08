@@ -1,0 +1,3 @@
+/workspaces/Container-para-ejercicios/build/CMakeFiles/guia1.dir
+/workspaces/Container-para-ejercicios/build/CMakeFiles/edit_cache.dir
+/workspaces/Container-para-ejercicios/build/CMakeFiles/rebuild_cache.dir

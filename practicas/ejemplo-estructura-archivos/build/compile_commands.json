@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/ejemplo-estructura-archivos/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/ejemplo.dir/matematica.cpp.o -c /workspaces/ejemplo-estructura-archivos/matematica.cpp",
+  "file": "/workspaces/ejemplo-estructura-archivos/matematica.cpp"
+},
+{
+  "directory": "/workspaces/ejemplo-estructura-archivos/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/ejemplo.dir/main.cpp.o -c /workspaces/ejemplo-estructura-archivos/main.cpp",
+  "file": "/workspaces/ejemplo-estructura-archivos/main.cpp"
+}
+]

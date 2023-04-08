@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/workspaces/Ejercicio3/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/login_suve.dir/login_suve.cpp.o -c /workspaces/Ejercicio3/login_suve.cpp",
+  "file": "/workspaces/Ejercicio3/login_suve.cpp"
+},
+{
+  "directory": "/workspaces/Ejercicio3/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/login_suve.dir/lib/sucesion_de_fibonacci.cpp.o -c /workspaces/Ejercicio3/lib/sucesion_de_fibonacci.cpp",
+  "file": "/workspaces/Ejercicio3/lib/sucesion_de_fibonacci.cpp"
+},
+{
+  "directory": "/workspaces/Ejercicio3/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/login_suve.dir/lib/seguridad.cpp.o -c /workspaces/Ejercicio3/lib/seguridad.cpp",
+  "file": "/workspaces/Ejercicio3/lib/seguridad.cpp"
+},
+{
+  "directory": "/workspaces/Ejercicio3/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/mayor_racha_test.dir/mayor_racha_test.cpp.o -c /workspaces/Ejercicio3/mayor_racha_test.cpp",
+  "file": "/workspaces/Ejercicio3/mayor_racha_test.cpp"
+},
+{
+  "directory": "/workspaces/Ejercicio3/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/mayor_racha_test.dir/lib/mayor_racha.cpp.o -c /workspaces/Ejercicio3/lib/mayor_racha.cpp",
+  "file": "/workspaces/Ejercicio3/lib/mayor_racha.cpp"
+},
+{
+  "directory": "/workspaces/Ejercicio3/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/mayor_racha_test.dir/lib/test.cpp.o -c /workspaces/Ejercicio3/lib/test.cpp",
+  "file": "/workspaces/Ejercicio3/lib/test.cpp"
+}
+]

@@ -1,0 +1,26 @@
+# ninja log v5
+40	159	1678472716576901700	CMakeFiles/login_suve.dir/lib/sucesion_de_fibonacci.cpp.o	1427634ef4241e3a
+48	287	1678472716706337700	CMakeFiles/mayor_racha_test.dir/lib/mayor_racha.cpp.o	ac19474aebc94167
+43	328	1678472716736406500	CMakeFiles/login_suve.dir/lib/seguridad.cpp.o	f5ea9dd9349d86e3
+51	493	1678472716912776300	CMakeFiles/mayor_racha_test.dir/lib/test.cpp.o	28f59092c37ee972
+46	598	1678472717019520000	CMakeFiles/mayor_racha_test.dir/mayor_racha_test.cpp.o	d17e9c4d8ea844ed
+38	613	1678472717020521800	CMakeFiles/login_suve.dir/login_suve.cpp.o	e84ee6e2277edc26
+606	935	1678472717359254500	mayor_racha_test	dea3f20234288f96
+629	962	1678472717386830800	login_suve	d18445bec951a17f
+83	559	1678472804587736500	CMakeFiles/login_suve.dir/login_suve.cpp.o	e84ee6e2277edc26
+569	903	1678472804937694000	login_suve	d18445bec951a17f
+41	286	1678472890225683300	CMakeFiles/login_suve.dir/lib/seguridad.cpp.o	f5ea9dd9349d86e3
+297	635	1678472890578711000	login_suve	d18445bec951a17f
+60	382	1678473095825367300	CMakeFiles/login_suve.dir/lib/seguridad.cpp.o	f5ea9dd9349d86e3
+396	782	1678473096235419200	login_suve	d18445bec951a17f
+57	353	1678473229003771400	CMakeFiles/login_suve.dir/lib/seguridad.cpp.o	f5ea9dd9349d86e3
+363	725	1678473229378553700	login_suve	d18445bec951a17f
+45	367	1678473307052846000	CMakeFiles/login_suve.dir/lib/seguridad.cpp.o	f5ea9dd9349d86e3
+382	825	1678473307509615500	login_suve	d18445bec951a17f
+62	287	1678474502930341200	CMakeFiles/mayor_racha_test.dir/lib/mayor_racha.cpp.o	ac19474aebc94167
+301	621	1678474503271165400	mayor_racha_test	dea3f20234288f96
+58	252	1678474950945841800	CMakeFiles/mayor_racha_test.dir/lib/mayor_racha.cpp.o	ac19474aebc94167
+56	533	1678474951226804800	CMakeFiles/mayor_racha_test.dir/mayor_racha_test.cpp.o	d17e9c4d8ea844ed
+540	882	1678474951581124000	mayor_racha_test	dea3f20234288f96
+27	243	1678475271095885900	CMakeFiles/mayor_racha_test.dir/lib/mayor_racha.cpp.o	ac19474aebc94167
+256	555	1678475271418087500	mayor_racha_test	dea3f20234288f96

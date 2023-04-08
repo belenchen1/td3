@@ -1,0 +1,3 @@
+/workspaces/Ejercicio2/build/CMakeFiles/03_sucesiones.dir
+/workspaces/Ejercicio2/build/CMakeFiles/edit_cache.dir
+/workspaces/Ejercicio2/build/CMakeFiles/rebuild_cache.dir

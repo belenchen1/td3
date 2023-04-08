@@ -1,0 +1,1 @@
+int sucesion_de_fibonacci(int i);

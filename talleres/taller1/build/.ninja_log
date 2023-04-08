@@ -1,0 +1,17 @@
+# ninja log v5
+21749	24768	1678477851698496700	lib/libgmockd.a	645ee92a037ad539
+952	17800	1678915470336062000	CMakeFiles/tests.dir/funciones.cpp.o	10a140ee4b0b6ae2
+17818	27881	1678915480441754800	/workspaces/taller1/build/tests[1]_tests.cmake	96fcaf2d62831855
+14457	21742	1678477848662216600	lib/libgtestd.a	845569bf6cd4451f
+21752	22056	1678477848989018500	lib/libgtest_maind.a	4947431c6251f349
+29	1509	1678915526828990100	CMakeFiles/wordle.dir/funciones.cpp.o	220b7e2d264c16f0
+919	3130	1678901192340503600	CMakeFiles/wordle.dir/wordle.cpp.o	3a17def848afc0ef
+17818	27881	1678915480441754800	tests	96fcaf2d62831855
+24772	25186	1678477852108062500	lib/libgmock_maind.a	cef5996ac4d2f57d
+259	14382	1678477841256254200	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	bea9b3db1eb01011
+270	3846	1678477830757268000	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	8cc33affa70ed771
+244	8148	1678477835068802900	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	7494e2655103b48f
+17818	27881	1678915480441754800	tests[1]_tests.cmake	96fcaf2d62831855
+1537	3090	1678915528415448400	wordle	d788de7d0df700d8
+231	8648	1678477835546226400	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	13e05219beda0161
+225	4805	1678477831718324700	CMakeFiles/tests.dir/tests/tests.cpp.o	4c36ad2918e09f09

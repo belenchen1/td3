@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/Container-para-ejercicios/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/guia1.dir/guia1.cpp.o -c /workspaces/Container-para-ejercicios/guia1.cpp",
+  "file": "/workspaces/Container-para-ejercicios/guia1.cpp"
+},
+{
+  "directory": "/workspaces/Container-para-ejercicios/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/guia1.dir/main.cpp.o -c /workspaces/Container-para-ejercicios/main.cpp",
+  "file": "/workspaces/Container-para-ejercicios/main.cpp"
+}
+]

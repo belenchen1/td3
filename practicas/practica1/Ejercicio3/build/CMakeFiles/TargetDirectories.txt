@@ -1,0 +1,4 @@
+/workspaces/Ejercicio3/build/CMakeFiles/login_suve.dir
+/workspaces/Ejercicio3/build/CMakeFiles/mayor_racha_test.dir
+/workspaces/Ejercicio3/build/CMakeFiles/edit_cache.dir
+/workspaces/Ejercicio3/build/CMakeFiles/rebuild_cache.dir

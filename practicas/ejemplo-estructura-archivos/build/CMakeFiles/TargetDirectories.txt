@@ -1,0 +1,3 @@
+/workspaces/ejemplo-estructura-archivos/build/CMakeFiles/ejemplo.dir
+/workspaces/ejemplo-estructura-archivos/build/CMakeFiles/edit_cache.dir
+/workspaces/ejemplo-estructura-archivos/build/CMakeFiles/rebuild_cache.dir

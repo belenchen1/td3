@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/workspaces/Ejercicio2/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/03_sucesiones.dir/03_sucesiones.cpp.o -c /workspaces/Ejercicio2/03_sucesiones.cpp",
+  "file": "/workspaces/Ejercicio2/03_sucesiones.cpp"
+},
+{
+  "directory": "/workspaces/Ejercicio2/build",
+  "command": "/usr/bin/g++ -g -std=gnu++14 -o CMakeFiles/03_sucesiones.dir/lib/sucesion_de_fibonacci.cpp.o -c /workspaces/Ejercicio2/lib/sucesion_de_fibonacci.cpp",
+  "file": "/workspaces/Ejercicio2/lib/sucesion_de_fibonacci.cpp"
+}
+]
